@@ -87,4 +87,6 @@
    
 ### 구글 지도 띄우기, 장소 검색하기 보완 (이준석, 미르자크메더브 사르더르)   
 >진행과정   
->>
+>>지도를 휴대폰에서도 띄우기를 성공했으나 검색창을 누르면 튕기는 현상이 발생했습니다.
+>>>![KakaoTalk_20210426_212248075](https://user-images.githubusercontent.com/57963888/116082045-ec70ea80-a6d5-11eb-865c-2fced0a194c1.jpg)   
+>>>![KakaoTalk_20210426_212323630](https://user-images.githubusercontent.com/57963888/116082052-eda21780-a6d5-11eb-9046-9f0c4290a873.jpg)   
