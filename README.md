@@ -38,13 +38,13 @@
 >>지금까지 고객 사용자의 입장에서 화면을 구성하고 업주의 입장에서 화면을 구성하지 않아   
 >>업주가 사용할 화면을 재구성하였습니다.   
 >>>
->>>업주 페이지
+>>>업주 페이지   
 >>>![image](https://user-images.githubusercontent.com/57963888/116077028-f7288100-a6cf-11eb-8292-037cc92fee65.png)   
 >>>
->>>광고 문의
+>>>광고 문의   
 >>>![image](https://user-images.githubusercontent.com/57963888/116076927-d6f8c200-a6cf-11eb-97a3-37d9fcc48211.png)   
 >>>
->>>가게 설정하기
+>>>가게 설정하기   
 >>>![image](https://user-images.githubusercontent.com/57963888/116080425-03164200-a6d4-11eb-9e95-82313f7794b0.png)   
 
 
