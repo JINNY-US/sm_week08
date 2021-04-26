@@ -16,8 +16,27 @@
    ***   
    
 ### 7주차 보완 (김경진, 홍수빈)   
->진행과정   
->>   
+>진행과정1   
+>>랜더링 오류가 자꾸 떠서 앱 자체가 다운받아지지도 않고 실행도 되지 않는 상태입니다.     
+>>코드 상으로는 빨간 줄 없는 코드인데 어디서 오류가 나는지 모르겠습니다.    
+>>>![image](https://user-images.githubusercontent.com/57963888/115985037-f109a600-a5e4-11eb-904d-f073aff0775c.png)   
+>>>![image](https://user-images.githubusercontent.com/57963888/115985053-febf2b80-a5e4-11eb-90d2-5ce34cffde28.png)   
+
+>item_post.xml의 3번째 줄에서   
+>com.google.android.material.card.MaterialCardView   
+>이게 문제인 거 같은데 이번 주차에 오류를 고치지 못했습니다.   
+>>![image](https://user-images.githubusercontent.com/57963888/115985830-9eca8400-a5e8-11eb-8a25-f7639da0f41a.png)   
+
+
+>마찬가지로 fragment_post_detail.xml의 45번째 줄에   
+>com.google.android.material.button.MaterialButton   
+>Material이랑 관련되면 오류가 나는 거 같습니다.   
+>다음 주차에 왜 오류가 나는지 알아볼 예정입니다.   
+>>![image](https://user-images.githubusercontent.com/57963888/115985971-287a5180-a5e9-11eb-9ab2-f4fd97e2edc6.png)   
+
+>진행과정2
+>>지금까지 고객 사용자의 입장에서 화면을 구성하고 업주의 입장에서 화면을 구성하지 않아   
+>>업주가 사용할 화면을 재구성하였습니다.   
 
    ***   
    
